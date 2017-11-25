@@ -1,0 +1,36 @@
+{
+  "Header": "Daftar Resep",
+  "Resep" : [
+    {
+        "nama": "Gudeg",
+        "kategori":"Makanan Berat",
+        "bahan": "- 1 kg nangka muda\n - bumbu halus\n- 10 siung bawang merah\n- 4 siung bawang putih\n- sejempol langkuas muda(warna nya pink dan basah)\n- 6 butir kemiri\n- 1 sdt ketumbar bubuk\n- bumbu cemplung\n- sejempol lengkuas geprek\n- 2 batang sereh geprek\n- 10 lembar daun salam\n- 5 lembar daun jeruk\n- 250 gram gula merah\n- perasan santan 1 kelapa dengan air sampai menutupi nangka\n- secukupnya garam dan penyedap ",
+        "cara":"1. Siangi semua bahan dan haluskan bumbu.\n2. Lalu susun di dalam panci. paling bawah bahan cemplung lalu bahan halus dan di atasnya nangka lalu peras santan dan tuang hingga menutupi nangka.\n3. Godog dgn api sedang di 1jampertama jgn dibuka lalu buka dan aduk. 30mnt kemudian aduk lg. jgn smpe terlalu kering.\n4. Godok kurang lebih 4jam saya sisakan sedikit airnya tdk terlalu kering agar besok msh bisa di hangatkan.\n5. Kalau mau hasil nya hitam gunakan air kelapa ya."
+    },
+    {
+      "nama": "Tempe Mendoan",
+      "kategori":"Makanan Ringan",
+      "bahan": "- 1 tempe panjang\n- 2 siung bawang merah\n- 2 siung bawang putih\n- 1/2 sdt merica\n- 1 butir kemiri\n- 1 sdt garam\n- 5 sdm munjung tepung terigu\n- 1 sdm munjung tepung maizena\n- 2 batang daun bawang iris tipis tipis\n- secukupnya minyak untuk menggoreng ",
+      "cara": "1. Iris2 tempe +/- 1cm\n2. Haluskan semua bumbu (bawang merah putih, kemiri, merica,garam)\n3. Buat adonan : campurkan tepung terigu,maizena, bumbu halus, dan irisan daun bawang)\n4. Celupkan tempe ke dalam adonan tepung tadi sebelum digoreng.\n5. Panaskan minyak.goreng tempe hingga kuning ke emasan.angkat\n6. Tips : agar lebih krispi sampai kedalam,masak dengan api kecil dan waktu yang lebih lama."
+    },
+    {
+      "nama": "Bakwan Bihun",
+      "kategori": "Makanan Ringan",
+      "bahan" : "- 1 lbr Bihun rebus\n- 1 btg Wortel, serut\n- 1 btg Daun Bawang, iris tipis\n- 1 sdt Merica Bubuk\n- 4 siung Bawang Putih, haluskan\n- 5 siung Bawang Merah, haluskan\n- 1 sdt Ketumbar, haluskan\n- 5 sdm Tepung Terigu\n- 2 sdm Tepung Tapioka/Sagu\n- 1 btr Telur\n- Secukupnya Garam dan Gula ",
+      "cara": "1. Campur semua bahan bakwan\n2. Aduk dengan ditambahkan air sedikit demi sedikit, sampai adonan kental.\n3. Ambil 1 sendok sayur, Goreng dalam minyak panas hingga kecoklatan.\n4. Tiriskan, siap disantap."
+    },
+    {
+      "nama" :"Gado - Gado",
+      "kategori": "Makanan Berat",
+      "bahan" : "- 5 bh wortel ptg\n- 8 bh kentang\n- 1/4 buncis\n- 5 lbr kol1/4 touge\n- 5 lbr sawi putih blh tdk pakai\n- Saos:\n- 1/4 kacang goreng\n- 5 btr cabe rawit\n- 6 btr bwg putih\n- 8 btrbtr bwg merah\n- 1/4 air asam jawa\n- 1/2 blh gula merah atau1/2kl atau sesuai selera\n- 2 bks kcl terasi goreng\n- Garam sckpx\n- 1 sdm larutan tepung sagu/kanji\n- Pelengkap: bwg merah goreng dan kerupuk ",
+      "cara": "1. Rebus gula merah dan asam jawa dengan sedikit air sampai gula larut saring tambahkan air 2 gelas dan masak smpi mendidih\n2. Iris halus semua bahan saos smpi kuning dan haluskan\n3. Masukkan pd rebusan gula tmbhkan garam dan larutan tepung kanji masak smpi kental angkat\n4. Kukus kentang,wortel,buncis smpi empuk tapi jgn trlalu lembek biar tetap segar sayurx dinginkan\n5. Kukus touge dan sawi putih 3m angkat diginkan.\n6. Potong kasar sawi putih memanjang dan tiriskan sbntr krn sawi akan mengeluarkan air\n7. Potong dadu wortel, kentang, boncis dan campurkan semuax sayur jadi satu.     "
+    },
+    {
+      "nama" : "Sate Usus Ayam",
+      "kategori" : "Makanan Ringan",
+      "bahan": "- 1.5 kg Usus Ayam (cuci bersih lalu rebus, cuci lagi & tiriskan)\n- Bumbu halus:\n- 6 siung Bawang Putih\n- 8 siung Bawang Merah\n- 1 ruas jari Lengkuas\n- 1/2 ruas jari Jahe\n- 1 ruas jari Kunyit (bisa ditambah)\n- 1 sdm Ketumbar\n- Sejumput Jintan (optional)\n- 5 butir Kemiri\n- 3 bh Cabe Merah Besar (bisa ditambah cabe rawit)\n- Garam\n- Gula Pasir\n- Penyedap Rasa (optional)\n- Pelengkap:\n- Daun Jeruk Purut\n- Daun Salam\n- Daun Sereh ",
+      "cara" : "1. Tumis bumbu halus-daun jeruk-daun salam-daun sereh, harum tambahkan air\n2. Mendidih masukkan usus, ukep"
+    }
+  ]
+
+}

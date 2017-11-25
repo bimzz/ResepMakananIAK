@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout"
+        android:padding="25dp"
+        android:background="@drawable/border"
+        >
+
+        <ImageView
+            android:id="@+id/myImage"
+            app:srcCompat="@mipmap/ic_launcher"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/border"
+            android:fadingEdgeLength="5dp"
+            android:scaleType="fitXY" />
+        <LinearLayout
+            android:layout_toEndOf="@+id/myImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Nama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="21dp"
+                android:layout_toEndOf="@+id/myImage"
+                android:layout_toRightOf="@+id/myImage"
+                android:text="TextView"
+                android:textColor="@color/textResep"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/jenis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/Nama"
+                android:layout_alignLeft="@+id/Nama"
+                android:layout_alignStart="@+id/Nama"
+                android:layout_marginBottom="17dp"
+                android:paddingLeft="20dp"
+                android:text="TextView"
+                android:textColor="@color/textResep"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

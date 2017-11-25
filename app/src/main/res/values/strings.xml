@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string-array name="NamaResep"></string-array>
+    <string-array name="KET"></string-array>
+    <string name="deskripsi">
+        Deskripsi : "\n"
+        Aplikasi Resep Makanan ini merupakan aplikasi yang berisi resep masakan sederhana dari Nusantara."\n"
+        Aplikasi Resep Makanan ini didedikasikan untuk anda yang sedang belajar masak agar lebih mudah melihat resep masakan indonesia / resep masakan nusantara sederhana tanpa harus membuka buku resep.</string>
+    <string name="kode">Source Code :"\n"https://github.com/bimzz/ResepMakananIAK</string>
+</resources>
